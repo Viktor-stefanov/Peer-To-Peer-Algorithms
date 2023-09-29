@@ -1,0 +1,7 @@
+/_build/
+/deps/
+erl_crash.dump
+/tmp/
+.elixir_ls
+.formatter.exs
+learned.json
