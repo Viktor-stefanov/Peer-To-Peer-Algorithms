@@ -1,0 +1,11 @@
+1. Create finger table implementation
+2. Finish both whitepapers
+3. Form an idea to visualize those algorithms in a web variant
+4. Start building the application and choose an Elixir based stack
+5. Implement different algorithms:
+	- Kademilla
+	- Pastry
+	?- CAN (Content-Addressable Network)
+	- Tapestry
+	- Skip Graph (Scalable Distributed Data Structures)
+	- Symphony

@@ -1,0 +1,2 @@
+defmodule Chord do
+end

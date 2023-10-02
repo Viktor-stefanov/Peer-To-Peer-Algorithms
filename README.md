@@ -2,6 +2,9 @@
 
 ## Implementations of two versions of the Chord Peer-to-Peer algorithm
 
+Chord Ring: a virtual circle formed by all nodes participating in the network
+Finger Table: a scalability feature ensuring lookup time of O(log(N))
+
 ### Notes about the Chord algorithm:
 1. It is a DHT (Distributed Hash Table) implementation
 2. For node and item IDs it uses a unique hash (SHA1 in this particular application)
